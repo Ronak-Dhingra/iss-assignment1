@@ -36,3 +36,5 @@
     * `./q5.sh`
     * ` `
     * `Output directly displayed on terminal`
+
+* > Link to GitHub Repository: https://github.com/Ronak-Dhingra/iss-assignment1
